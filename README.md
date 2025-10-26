@@ -1,4 +1,5 @@
 # Tic Tac Toe in Python
+<img width="1280" height="720" alt="2nd thumbnail" src="https://github.com/user-attachments/assets/8eb3d25e-e6f9-4507-8ed0-4c692f5893e8" />
 
 A beginner-friendly Tic Tac Toe game in Python. This repository includes:
 
