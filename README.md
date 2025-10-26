@@ -42,7 +42,7 @@ A beginner-friendly Tic Tac Toe game in Python. This repository includes:
 
 ## Links
 - **Kaggle Notebook:** https://www.kaggle.com/code/rabeeanaseer/tic-tac-toe-game-in-python-beginner-friendly
-- **YouTube Demo:** https://youtu.be/01ukmOaDsuU?si=x509bgXGXlxN9BE9  
+- **YouTube Demo:** https://youtu.be/01ukmOaDsuU?si=cryixWDpSsE2BWSv
 
 ---
 
